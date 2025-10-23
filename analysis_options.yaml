@@ -1,0 +1,17 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  language:
+    strict-casts: true
+    strict-inference: true
+    strict-raw-types: true
+
+linter:
+  rules:
+    # Console app - print is expected
+    # - avoid_print
+    - prefer_single_quotes
+    - always_declare_return_types
+    # Trailing commas optional for readability
+    # - require_trailing_commas
+
