@@ -298,5 +298,5 @@ By studying this project, you will understand:
 
 ---
 
-**Developed with ❤️ using Dart**
+**Developed with Mohamed Osama using Dart**
 
